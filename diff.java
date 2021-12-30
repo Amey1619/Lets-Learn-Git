@@ -1,8 +1,8 @@
-public class Sum {
+public class diff {
     public static void main(String[] args)
     {
         int a=5;
         int b=6;
-        system.out.println("The diff is" + (a-b));
+        system.out.println("The difference is" + (a-b));
     }    
 }
